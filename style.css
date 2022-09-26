@@ -1,0 +1,17 @@
+/* From https://css.glass */
+.skull {background: rgba(113, 179, 255, 0.4);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(7.8px);
+-webkit-backdrop-filter: blur(7.8px);
+border: 1px solid rgba(113, 179, 255, 1);}
+
+.forehead{
+    /* From https://css.glass */
+background: rgba(36, 124, 226, 0.52);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(11.9px);
+-webkit-backdrop-filter: blur(11.9px);
+border: 1px solid rgba(36, 124, 226, 1);
+}
